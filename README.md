@@ -1,4 +1,4 @@
 sarasoft
 ========
 
-the SARA initiative
+the SARA initiative - a new beginning
